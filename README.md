@@ -14,4 +14,4 @@ Para ter acesso a todos os commits deste branch, basta acesssar: https://github.
 
 Para instalar o projeto basta clonar este repositório, navegar até a pasta correspondente (Módulo 1, por exemplo) e nela executar `npm install` (ou `yarn`). Após a finalização da instalação das dependências, basta rodar `npm run test` (ou `yarn test`) para ver os testes sendo executados.
 
-**Dica**: analise o conteúdo do `package.json` para ter acesso a outros scripts de testes!
+**Dica**: analise o conteúdo do `package.json` de cada módulo para ter acesso a outros scripts de testes!
