@@ -8,7 +8,7 @@ Este repositório conterá todo o código-fonte do curso. Cada módulo contará 
 
 Assim, para acessar o código fonte do _Módulo 1_ basta visitar a pasta correspondente: https://github.com/gustavotc95/curso-javascript-testes/tree/modulo1
 
-Para ter acesso a todos os commits deste branch, basta acesssar: https://github.com/gustavotc95/curso-javascript-testes/commits/modulo1
+Para ter acesso a todos os commits deste branch, basta acesssar: https://github.com/gustavotc95/curso-javascript-testes/commits/
 
 ### Instalação
 
